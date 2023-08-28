@@ -4,5 +4,5 @@
 >
 >Para executar este projeto localmente, por favor:
 ```
-> npm install react
+> node app.js
 ````
